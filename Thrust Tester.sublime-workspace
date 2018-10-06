@@ -1,0 +1,2361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"THRUS",
+				"THRUST-1"
+			],
+			[
+				"si",
+				"signal"
+			],
+			[
+				"debug",
+				"DEBUG_GpioToggle"
+			],
+			[
+				"uin",
+				"uint16_t"
+			],
+			[
+				"kadc",
+				"kAdcIndexVolLow"
+			],
+			[
+				"cufa",
+				"CURR_FACTOR_C"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"kad",
+				"kAdcIndexCur"
+			],
+			[
+				"kAdc",
+				"kAdcIndexVolLow"
+			],
+			[
+				"bat",
+				"battery_3_5v_cnt"
+			],
+			[
+				"gl",
+				"g_flight_time"
+			],
+			[
+				"ba",
+				"battery_cell"
+			],
+			[
+				"batt",
+				"battery_cells"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"ui",
+				"uint16_t"
+			],
+			[
+				"int",
+				"int32_t"
+			],
+			[
+				"DEB",
+				"DEBUG_LedToggle"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"kadcin",
+				"kAdcIndexVolHigh"
+			],
+			[
+				"vol",
+				"voltage_less_than_3_5V"
+			],
+			[
+				"tien",
+				"time_end_3_0V"
+			],
+			[
+				"g",
+				"g_rtc"
+			],
+			[
+				"ppmva",
+				"PPM_VALID_MAX"
+			],
+			[
+				"wei",
+				"drone_weight"
+			],
+			[
+				"se",
+				"sensor_is_found"
+			],
+			[
+				"coun",
+				"kHx711Count"
+			],
+			[
+				"s",
+				"struct\tstruct"
+			],
+			[
+				"dor",
+				"drone_weight"
+			],
+			[
+				"flight",
+				"flight_time"
+			],
+			[
+				"dron",
+				"drone_weight"
+			],
+			[
+				"dut",
+				"duty_x100"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"ar",
+				"ARG_NUM"
+			],
+			[
+				"thse",
+				"throttle_step"
+			],
+			[
+				"throt",
+				"Throttle"
+			],
+			[
+				"spp",
+				"s_ppm"
+			],
+			[
+				"thst",
+				"throttle_step"
+			],
+			[
+				"throttle_s",
+				"throttle_start"
+			],
+			[
+				"tho",
+				"throttle_behavior"
+			],
+			[
+				"thors",
+				"throttle_step"
+			],
+			[
+				"thos",
+				"throttle_start"
+			],
+			[
+				"ad",
+				"ad_tmp"
+			],
+			[
+				"senso",
+				"sensor"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"da",
+				"data_st"
+			],
+			[
+				"sensor",
+				"sensor_index"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"de",
+				"defined"
+			],
+			[
+				"offs",
+				"sector_offset_size"
+			],
+			[
+				"secto",
+				"s_sector_buf"
+			],
+			[
+				"sec",
+				"sector_remain_size"
+			],
+			[
+				"add",
+				"addr_offset"
+			],
+			[
+				"STM",
+				"STMFLASH_WriteBufferNoCheck"
+			],
+			[
+				"mpu",
+				"mpu6050"
+			],
+			[
+				"ppvam",
+				"PPM_VALID_MAX"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"sys",
+				"sys_last_time"
+			],
+			[
+				"sys_",
+				"sys_interval"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"insta",
+				"Instance"
+			],
+			[
+				"htim",
+				"htim4"
+			],
+			[
+				"ins",
+				"interrupt_is_finished"
+			],
+			[
+				"fis",
+				"first_time"
+			],
+			[
+				"HX",
+				"HX711"
+			],
+			[
+				"DE",
+				"DEFAULT_AMP"
+			],
+			[
+				"co",
+				"s_coefficient"
+			],
+			[
+				"samp",
+				"s_amp"
+			],
+			[
+				"a",
+				"accel"
+			],
+			[
+				"gmpu",
+				"g_mpu6050"
+			],
+			[
+				"MPU6050_CA",
+				"MPU6050_CalculateVector"
+			],
+			[
+				"CAL",
+				"CALCULATE_VECTOR"
+			],
+			[
+				"accro",
+				"acc_roll"
+			],
+			[
+				"bufesi",
+				"I2C_BUFFER_SIZE"
+			],
+			[
+				"kua",
+				"kUartCount"
+			],
+			[
+				"uartbu",
+				"UART_BUFFER_SIZE"
+			],
+			[
+				"I2Cx_Er",
+				"I2Cx_ER_IRQHandler"
+			],
+			[
+				"ki2c",
+				"kI2c1"
+			],
+			[
+				"ki",
+				"kI2c1"
+			],
+			[
+				"peven",
+				"p_event_handler"
+			],
+			[
+				"i2cxhand",
+				"I2Cx_TX_EV_IRQHandler"
+			],
+			[
+				"i2ite",
+				"I2C_IT_ERR"
+			],
+			[
+				"wri",
+				"WRITE"
+			],
+			[
+				"reg",
+				"reg_addr"
+			],
+			[
+				"P_",
+				"p_func"
+			],
+			[
+				"re",
+				"reg_addr"
+			],
+			[
+				"K",
+				"kI2cCfg"
+			],
+			[
+				"rega",
+				"Reg_Address"
+			],
+			[
+				"k",
+				"kI2c1"
+			],
+			[
+				"WIT",
+				"WRITE"
+			],
+			[
+				"i2cinfo",
+				"s_i2c_info"
+			],
+			[
+				"RE",
+				"READ"
+			],
+			[
+				"wi",
+				"WRITE"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"I2C",
+				"I2Cx"
+			],
+			[
+				"si2cin",
+				"s_i2c_info"
+			],
+			[
+				"sla",
+				"slave_addr"
+			],
+			[
+				"sal",
+				"slave_addr"
+			],
+			[
+				"sl",
+				"slave_addr"
+			],
+			[
+				"putb",
+				"I2Cx_PutBufferWithDma"
+			],
+			[
+				"sti",
+				"s_timeout"
+			],
+			[
+				"timou",
+				"timeout_cnt"
+			],
+			[
+				"put",
+				"I2Cx_PutBuffer"
+			],
+			[
+				"tx",
+				"tx_dma_channel"
+			],
+			[
+				"id",
+				"i2c_id"
+			],
+			[
+				"i2cid",
+				"i2c_id"
+			],
+			[
+				"sie",
+				"sizeof"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"rea",
+				"MPU6050_ReadByte"
+			],
+			[
+				"MPU",
+				"MPU6050_ReadByte"
+			],
+			[
+				"i2cemas",
+				"I2C_EVENT_MASTER_BYTE_TRANSMITTED"
+			],
+			[
+				"i2cg",
+				"I2C_GenerateSTOP"
+			],
+			[
+				"i2cmstmo",
+				"I2C_EVENT_MASTER_MODE_SELECT"
+			],
+			[
+				"i2csen",
+				"I2C_SendData"
+			],
+			[
+				"i2send",
+				"I2C_Send7bitAddress"
+			],
+			[
+				"I2C_gens",
+				"I2C_GenerateSTART"
+			],
+			[
+				"i2cev",
+				"I2C_EVENT_MASTER_BYTE_TRANSMITTED"
+			],
+			[
+				"e",
+				"ENABLE"
+			],
+			[
+				"PWM",
+				"PWM_TIM"
+			],
+			[
+				"gr",
+				"g_rtc"
+			],
+			[
+				"debou",
+				"KEY_DEBOUNCE_TIMES"
+			],
+			[
+				"key",
+				"s_key_pt"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"m",
+				"millisecond"
+			],
+			[
+				"str",
+				"STRUCT_RtcInfo"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"uart",
+				"uart_id"
+			],
+			[
+				"uatx",
+				"UARTx"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Src/main.c",
+			"settings":
+			{
+				"buffer_size": 9153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Doc/revision history.md",
+			"settings":
+			{
+				"buffer_size": 1972,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Inc/main.h",
+			"settings":
+			{
+				"buffer_size": 4496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Src/hx711.c",
+			"settings":
+			{
+				"buffer_size": 13877,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Src/terminal.c",
+			"settings":
+			{
+				"buffer_size": 14817,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Src/usart.c",
+			"settings":
+			{
+				"buffer_size": 11585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Inc/usart.h",
+			"settings":
+			{
+				"buffer_size": 3878,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Src/adc.c",
+			"settings":
+			{
+				"buffer_size": 20520,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Src/ppm.c",
+			"settings":
+			{
+				"buffer_size": 24139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 627 files for \"en_thrust1\" (case sensitive)\n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Inc\\protocol.h:\n   72  typedef struct {\n   73    uint8_t cmd;\n   74:   bool    en_thrust1;\n   75    bool    output_pro;\n   76    bool    abort_routine;\n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Inc\\Backup\\protocol.h.bak:\n   79  typedef struct {\n   80    uint8_t cmd;\n   81:   bool    en_thrust1;\n   82    bool    output_pro;\n   83    bool    abort_routine;\n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Src\\adc.c:\n  418      } else if ((uint8_t)HX711_INDEX_THRUST1 == i) {\n  419        // THRUST-1 sensor must be enabled manually!\n  420:       if (!g_pro.signal.en_thrust1) continue;\n  421        thrust += (s_ad.hx711[i]-HX711_ReadOffset(i))*HX711_ReadCoefficient(i);\n  422        thrust -= s_ad.start_offset[i];        \n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Src\\terminal.c:\n  234      bool enable_or_not = false;\n  235      sscanf(argv[1], \"%u\", (unsigned int*)&enable_or_not);\n  236:     g_pro.signal.en_thrust1 = enable_or_not;\n  237  #ifdef LANGUAGE_EN \n  238      if (enable_or_not)\n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Src\\Backup\\adc.c.bak:\n  418      } else if ((uint8_t)HX711_INDEX_THRUST1 == i) {\n  419        // THRUST-1 sensor must be enabled manually!\n  420:       if (!g_pro.signal.en_thrust1) continue;\n  421        thrust += (s_ad.hx711[i]-HX711_ReadOffset(i))*HX711_ReadCoefficient(i);\n  422        thrust -= s_ad.start_offset[i];        \n\nD:\\Users\\Jacob Peng\\Documents\\To do list\\Thrust Tester\\Src\\Backup\\terminal.c.bak:\n  157      bool enable_or_not = false;\n  158      sscanf(argv[1], \"%u\", (unsigned int*)&enable_or_not);\n  159:     g_pro.signal.en_thrust1 = enable_or_not;\n  160      if (enable_or_not)\n  161        printf(\"THRUST-0 and THRUST-1 are used for thrust at the same time.\\n\");\n\n6 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 1908,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "Inc/debug.h",
+			"settings":
+			{
+				"buffer_size": 2456,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Inc/protocol.h",
+			"settings":
+			{
+				"buffer_size": 3093,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#ifdef LANGUAGE_EN \n\n#else\n\n#endif",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packcon",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: If Condition"
+			],
+			[
+				"printf",
+				"Snippet: fprintf …"
+			],
+			[
+				"ip",
+				"Snippet: printf …"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"Running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"running g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src/main\"",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\" -o",
+			"g++ \"D:\\Users\\sheldencn\\Downloads\\serial_port_async\\src\\main.c\"",
+			"g++",
+			"ser"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Drivers"
+	],
+	"file_history":
+	[
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/ppm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/ppm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/debug.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/adc.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/main.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/dma.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/retarget_io.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/rpm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/stm_flash.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/terminal.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/debug.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/hx711.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/main.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/mpu6050.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/ppm.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/protocol.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/pwm.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/retarget_io.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/rpm.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/stm_flash.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/Backup/terminal.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Doc/test data/throttle behavior/1806M_10.5V_throttle_behavior_20180518.csv",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Doc/test data/throttle behavior/1806M_13.0V_throttle_behavior_20180518.csv",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Doc/test data/throttle behavior/1806M_9.0V_throttle_behavior_20180518 - Copy.csv",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/hx711.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/mpu6050.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/protocol.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/pwm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/retarget_io.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/rpm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/stm_flash.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/terminal.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/debug.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/hx711.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/mpu6050.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/ppm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/protocol.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/pwm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/retarget_io.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/rpm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/stm_flash.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Inc/Backup/terminal.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/debug.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/hx711.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/mpu6050.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/protocol.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Src/pwm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Doc/resource allocation.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Thrust Tester/Doc/revision history.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/Backup/pwm.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/pwm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/pwm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Doc/revision history.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/main.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Doc/precision.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/terminal.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/protocol.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/adc.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/ppm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/debug.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/debug.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/hx711.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/tim.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h",
+		"/D/Users/Jacob Peng/Documents/Eclipse/Motor Tester Eclipse/Src/main.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/rpm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/hx711.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/stm_flash.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/adc.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/stm_flash.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Doc/test data/current/board #2-current records-20180731.xlsx",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/protocol.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/Backup/hx711.c.bak",
+		"/C/Users/Jacob Peng/newbie/README.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
+		"/C/Users/Jacob Peng/git test/src/readme.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/libfixmath/fix16.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/libfixmath/fix16.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Doc/resource allocation.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/libfixmath/int64.h",
+		"/D/Users/Jacob Peng/Documents/[Others]/OS/Micrium_STM32xxx_uCOS-II/Micrium/Software/uCOS-II/Ports/ARM-Cortex-M3/Generic/RealView/os_dbg.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/libfixmath/fix16_trig.c",
+		"/D/Users/Jacob Peng/Downloads/libfixmath/libfixmath/Makefile",
+		"/D/Users/Jacob Peng/Downloads/libfixmath/contrib/fix16_fft.c",
+		"/D/Users/Jacob Peng/Downloads/libfixmath/unittests/fix16_exp_unittests.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/gpio.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/pt-1.5/lc.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f100xb.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/adc.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/main.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/mpu6050.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/ppm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/rpm.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/terminal.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/mpu6050.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/ppm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/pt_sem.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/rpm.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/Backup/terminal.h.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/graham_pt.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/pwm.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/protocol.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/rtc.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/rtc.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/mpu6050.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/inv_mpu.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/i2c.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/Backup/terminal.c.bak",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/rtc_tim.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc_ex.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/rtc_tim.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/stm32f1xx_it.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/usart.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/usart.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Inc/tim.h",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Doc/revision.md",
+		"/D/Users/Jacob Peng/Documents/To do list/Motor Tester/Src/key.c"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"en_thrust1",
+			"Vibr",
+			"PROTOCOL_TITLE",
+			"DMA_MemoryBaseAddr",
+			"len_rx",
+			"UART3_LEN_RX",
+			"0.5",
+			"abort",
+			"buf_rx",
+			"TERMINAL_ProcessString",
+			"g_uart3",
+			"TERMINAL_ProcessString",
+			"個",
+			"线程",
+			"綫程",
+			"例程",
+			"歷程",
+			"FIRMWARE_VERSION",
+			"2014-2018",
+			"www.hg-fly.com",
+			"Motor Tester",
+			");",
+			"PT_SCHEDULE(",
+			"Determine",
+			"PWM_ChangeDutyRatio",
+			"PWM_Enable",
+			"struct",
+			"HX711_IsFound",
+			"adc_buf",
+			"value",
+			"CUR_NOISE",
+			"hx711",
+			"thrust",
+			"value",
+			"error",
+			"i",
+			"kAdcCount",
+			"CURRENT_NOISE",
+			"VOLTAGE_NOISE",
+			"start_offset",
+			"2",
+			"g_pro",
+			"s_offset",
+			"s_coefficient",
+			"JITTER_TIMES",
+			"thrust_error",
+			"thrust_integral",
+			"s_old_fix_cur",
+			"fix16_mul_new_16_16",
+			"fix16_lerp8",
+			"cur_factor",
+			"finished",
+			"kCurDataSize",
+			"CURRENT_NOISE",
+			"INT16U",
+			"finished",
+			"fix_t",
+			"s_ad.value[kAdcIndexCur]",
+			"current",
+			"s_adc1_buffer",
+			"buffer",
+			"read_start_offset",
+			"DEBUG_GpioToggle",
+			"ADC_HandleTypeDef",
+			"finished_read",
+			"adc_s",
+			"read_start_offset",
+			"STRUCT_AdcSignal",
+			"s_adc1_buffer",
+			"s_ad",
+			"STRUCT_AdcInfo",
+			"ADC_HandleTypeDef",
+			"injected",
+			"graham_pt",
+			"graham",
+			"kCurIndex20A",
+			"kCurIndex",
+			"enum",
+			"kAdcIndexVolLow",
+			"PWM_Update",
+			"abort_routine",
+			"kProIndexCount",
+			"g_pro",
+			"DURATION_TIME_THROTTLE",
+			"start_offset",
+			"thrust_equals_weight_cnt",
+			"voltage",
+			"THROTTLE_UP_3_0V_CNT",
+			"THROTTLE_UP_3_0V_MAX_PERCENT",
+			"THROTTLE_UP_3_0V_MAX_VALUE",
+			"THROTTLE_UP_3_5V_CNT",
+			"THROTTLE_UP_3_5V_MAX_PERCENT",
+			"THROTTLE_UP_3_5V_MAX_VALUE",
+			"throttle_up_3_0v_cnt",
+			"throttle_up_3_5v_cnt",
+			"throttle_up_3_0v_cnt",
+			"DURATION_TIME_THROTTLE",
+			"DURATION_TIME_THROTTLE_PRESTART",
+			"g_flight_time",
+			"FLG_IsEnabled",
+			"thrust_integral",
+			"DEFAULT_MPU_HZ",
+			"kGyroCount",
+			"I2Cx_Read",
+			"DEFAULT_OFFSET",
+			"troque",
+			"HX711_SetOffset",
+			"HX711_SetAmp",
+			"VOLTAGE_NOISE",
+			"new_value",
+			"value",
+			"kAdcCount",
+			"HX711_PulseScl",
+			"kHx711Index3",
+			"HX711_PulseScl",
+			"s_amp_cnt",
+			"kAdcIndexVolHigh",
+			"thrust_integral",
+			"throttle",
+			"thrust_integral",
+			"thrust_error",
+			"drone_weight",
+			"thrust_integral",
+			"thrust_error",
+			"thrust_integral",
+			"updated",
+			"s_ppm",
+			"thrust_is_updated"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"PROTOCOL_TITLE_EN",
+			"例程",
+			"綫程",
+			"2017-2018",
+			"https://github.com/JacobPeng/ThrustTester",
+			"Thrust Tester",
+			"PWM_ChangeDuty",
+			"CUR_NOISE",
+			"VOL_NOISE",
+			"g_offset",
+			"g_coefficient",
+			"s_adc1_buf",
+			"finished",
+			"adc_data_s",
+			"adc_signal_s",
+			"adc_s",
+			"graham-pt",
+			"BATTERY_3_0V_CNT",
+			"BATTERY_3_0V_MAX_PERCENT",
+			"BATTERY_3_0V_MAX_VALUE",
+			"BATTERY_3_5V_CNT",
+			"BATTERY_3_5V_MAX_PERCENT",
+			"BATTERY_3_5V_MAX_VALUE",
+			"battery_3_0v_cnt",
+			"battery_3_5v_cnt",
+			"torque",
+			"start_offset",
+			"VOLTAGE_NOISE",
+			"THRUST_NOISE",
+			"rtc.h",
+			"VOL_LOW",
+			"VOL_HIGH",
+			"kAdcIndexVolHigh",
+			"kAdcIndexVolLow",
+			"rtc_tim.h",
+			"RTC_TIM_H_",
+			"rtc_tim",
+			"float",
+			"thrust_offset",
+			"read_start_offset",
+			"output_pro",
+			"duty_x200",
+			"THROTTLE_UP_3_0V_CNT",
+			"THROTTLE_UP_3_0V_MAX_PERCENT",
+			"THROTTLE_UP_3_0V_MAX_VALUE",
+			"THROTTLE_UP_3_5V_CNT",
+			"THROTTLE_UP_3_5V_MAX_PERCENT",
+			"THROTTLE_UP_3_5V_MAX_VALUE",
+			"voltage_less_than_3_5V",
+			"THRUST_ERROR_MIN_PERCENT",
+			"THRUST_ERROR_MIN_VALUE",
+			"THRUST_ERROR_MAX_PERCENT",
+			"THRUST_ERROR_MAX_VALUE",
+			"cnt",
+			"time_end_3_5V",
+			"time",
+			"THB_Thread",
+			"THB_IsEnabled",
+			"g_pro.signal",
+			"g_pro.data",
+			"en_output_pro",
+			"output_pro",
+			"g_pro.data",
+			"STRUCT_ThrottleBehavior",
+			"g_pro_data",
+			"STRUCT_ProData",
+			"STRUCT_ProInfo",
+			"g_pro",
+			"s_pwm",
+			"g_rtc",
+			"STRUCT_AdcSignal",
+			"en_read_start_offset",
+			"s_pro_timer",
+			"s_thr_beh",
+			"STRUCT_ThrBehFlag",
+			"duration_time_throttle_prestart",
+			"DURATION_TIME_THROTTLE_PRESTART",
+			"s_rtc",
+			"STRUCT_RtcTimerMs",
+			"RTC_MS_MAX",
+			"RTC_ExpiredMs",
+			"RTC_SetMs",
+			"RTC_TickMs",
+			"ter_pt",
+			"TER_Thread",
+			"CRT_Thread",
+			"calibrate_thrust_sensor",
+			"UART3_LEN_RX",
+			"g_uart3",
+			"UART_PRINTF",
+			"buf_rx",
+			"len_rx",
+			"UART1_LEN_RX",
+			"",
+			"ARG_NUM",
+			"TERMINAL_H_",
+			"STM_FLASH_H_",
+			"HX711_SDA1_Pin",
+			"HX711_SDA1_GPIO_Port",
+			"HX711_SCL1_Pin",
+			"HX711_SCL1_GPIO_Port",
+			"s_mpu6050",
+			"s_rpm",
+			"s_ppm",
+			"s_ad",
+			"vibration",
+			"PROTOCOL_H_",
+			"s_rpm_is_updated",
+			"RPM_TIMEOUT",
+			"s_ppm_is_refreshed",
+			"s_ppm_lost_cnt",
+			"duty_x100",
+			"s_first_sample",
+			"new_time",
+			"s_last_time",
+			"s_first_time",
+			"ACCEL_NOISE",
+			"GYRO_NOISE",
+			"INNER_ADC_NOISE",
+			"HX711_ReadAd",
+			"g_hx711.offset",
+			"g_hx711.coefficient",
+			"s_amp_cnt",
+			"HX711_H_",
+			"s_accel_tmp",
+			"s_gyro_tmp",
+			"180.0",
+			"180.0f"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2376,
+								2376
+							]
+						],
+						"settings":
+						{
+							"SL.105.region_keys":
+							[
+							],
+							"SL.13.region_keys":
+							[
+							],
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.148.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.219.region_keys":
+							[
+							],
+							"SL.223.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"SL.280.region_keys":
+							[
+							],
+							"SL.29.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.31.region_keys":
+							[
+							],
+							"SL.317.region_keys":
+							[
+							],
+							"SL.472.region_keys":
+							[
+							],
+							"SL.503.region_keys":
+							[
+							],
+							"SL.52.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.557.region_keys":
+							[
+							],
+							"SL.57.region_keys":
+							[
+							],
+							"SL.63.region_keys":
+							[
+							],
+							"SL.65.region_keys":
+							[
+							],
+							"SL.742.region_keys":
+							[
+							],
+							"SL.84.region_keys":
+							[
+							],
+							"SL.98.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2472.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Doc/revision history.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Inc/main.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4186,
+								4157
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.33.region_keys":
+							[
+							],
+							"SL.37.region_keys":
+							[
+							],
+							"SL.65.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1478.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Src/hx711.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3635,
+								3635
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.233.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.30.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Src/terminal.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8602,
+								8602
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.21.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.31.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Src/usart.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1115,
+								1115
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.33.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Inc/usart.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2873,
+								2885
+							]
+						],
+						"settings":
+						{
+							"SL.106.region_keys":
+							[
+							],
+							"SL.18.region_keys":
+							[
+							],
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Src/adc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8818,
+								8818
+							]
+						],
+						"settings":
+						{
+							"SL.151.region_keys":
+							[
+							],
+							"SL.38.region_keys":
+							[
+							],
+							"SL.70.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6074.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Src/ppm.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1977,
+								1977
+							]
+						],
+						"settings":
+						{
+							"SL.155.region_keys":
+							[
+							],
+							"SL.19.region_keys":
+							[
+							],
+							"SL.71.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 842.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1908,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										189,
+										199
+									],
+									[
+										408,
+										418
+									],
+									[
+										696,
+										706
+									],
+									[
+										1056,
+										1066
+									],
+									[
+										1367,
+										1377
+									],
+									[
+										1738,
+										1748
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Inc/debug.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.76.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Inc/protocol.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1066,
+								1066
+							]
+						],
+						"settings":
+						{
+							"SL.148.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 157.0
+	},
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Thrust Tester.sublime-project",
+	"replace":
+	{
+		"height": 83.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"de",
+				"Inc\\debug.h"
+			],
+			[
+				"revis",
+				"Doc\\revision history.md"
+			],
+			[
+				"pp",
+				"Src\\ppm.c"
+			],
+			[
+				"ad",
+				"Src\\adc.c"
+			],
+			[
+				"mai",
+				"Src\\main.c"
+			],
+			[
+				"hx",
+				"Src\\hx711.c"
+			],
+			[
+				"uart",
+				"Src\\usart.c"
+			],
+			[
+				"ter",
+				"Src\\terminal.c"
+			],
+			[
+				"debu",
+				"Inc\\debug.h"
+			],
+			[
+				"main",
+				"Inc\\main.h"
+			],
+			[
+				"m",
+				"Inc\\main.h"
+			],
+			[
+				"reviso",
+				"Doc\\revision history.md"
+			],
+			[
+				"adc",
+				"Src\\adc.c"
+			],
+			[
+				"pw",
+				"Inc\\pwm.h"
+			],
+			[
+				"pwm",
+				"Src\\pwm.c"
+			],
+			[
+				"revi",
+				"Doc\\revision history.md"
+			],
+			[
+				"deb",
+				"Inc\\debug.h"
+			],
+			[
+				"rp",
+				"Src\\rpm.c"
+			],
+			[
+				"pre",
+				"Doc\\precision.md"
+			],
+			[
+				"ma",
+				"Inc\\main.h"
+			],
+			[
+				"ppm",
+				"Src\\ppm.c"
+			],
+			[
+				"termi",
+				"Src\\terminal.c"
+			],
+			[
+				"pro",
+				"Inc\\protocol.h"
+			],
+			[
+				"recis",
+				"Doc\\precision.md"
+			],
+			[
+				"fl",
+				"Inc\\stm_flash.h"
+			],
+			[
+				"pr",
+				"Inc\\protocol.h"
+			],
+			[
+				"rev",
+				"Doc\\revision history.md"
+			],
+			[
+				"boa",
+				"Doc\\test data\\current\\board #2-current records-20180731.xlsx"
+			],
+			[
+				"fla",
+				"Src\\stm_flash.c"
+			],
+			[
+				"f",
+				"Inc\\stm_flash.h"
+			],
+			[
+				"resour",
+				"Doc\\resource allocation.md"
+			],
+			[
+				"resou",
+				"Doc\\resource allocation.md"
+			],
+			[
+				"revisio",
+				"Doc\\revision history.md"
+			],
+			[
+				"fix",
+				"Inc\\libfixmath\\fix16.h"
+			],
+			[
+				"adc.h",
+				"Inc\\adc.h"
+			],
+			[
+				"a",
+				"Inc\\adc.h"
+			],
+			[
+				"gp",
+				"Src\\gpio.c"
+			],
+			[
+				"res",
+				"Doc\\resource allocation.md"
+			],
+			[
+				"lc.h",
+				"Inc\\pt-1.5\\lc.h"
+			],
+			[
+				"gra",
+				"Inc\\graham_pt.h"
+			],
+			[
+				"ADC",
+				"Src\\adc.c"
+			],
+			[
+				"rtc",
+				"Src\\rtc.c"
+			],
+			[
+				"i2c",
+				"Src\\i2c.c"
+			],
+			[
+				"mpu",
+				"Src\\mpu6050.c"
+			],
+			[
+				"hx7",
+				"Src\\hx711.c"
+			],
+			[
+				"p",
+				"Inc\\protocol.h"
+			],
+			[
+				"rt",
+				"Src\\rtc_tim.c"
+			],
+			[
+				"rtti",
+				"Inc\\rtc_tim.h"
+			],
+			[
+				"it",
+				"Src\\stm32f1xx_it.c"
+			],
+			[
+				"usa",
+				"Inc\\usart.h"
+			],
+			[
+				"t",
+				"Src\\terminal.c"
+			],
+			[
+				"tim",
+				"Src\\tim.c"
+			],
+			[
+				"key",
+				"Src\\key.c"
+			],
+			[
+				"rtctim",
+				"Src\\rtc_tim.c"
+			],
+			[
+				"vis",
+				"Doc\\revision.md"
+			],
+			[
+				"PP",
+				"Inc\\ppm.h"
+			],
+			[
+				"i2",
+				"Src\\i2c.c"
+			],
+			[
+				"rpm",
+				"Src\\rpm.c"
+			],
+			[
+				"us",
+				"Src\\usart.c"
+			],
+			[
+				"ke",
+				"Src\\key.c"
+			],
+			[
+				"stmf",
+				"Src\\stm_flash.c"
+			],
+			[
+				"test",
+				"Doc\\test.c"
+			],
+			[
+				"reat",
+				"Src\\retarget_io.c"
+			],
+			[
+				"ret",
+				"Inc\\retarget_io.h"
+			],
+			[
+				"ua",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal_uart.h"
+			],
+			[
+				"u",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal_uart.h"
+			],
+			[
+				"d",
+				"Inc\\debug.h"
+			],
+			[
+				"dma",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal_dma_ex.h"
+			],
+			[
+				"reta",
+				"Src\\retarget_io.c"
+			],
+			[
+				"io.",
+				"Inc\\retarget_io.h"
+			],
+			[
+				"uar",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal_uart.h"
+			],
+			[
+				"re",
+				"Inc\\retarget_io.h"
+			],
+			[
+				"retio",
+				"Inc\\retarget_io.h"
+			],
+			[
+				"lc",
+				"Inc\\lc_switch.h"
+			],
+			[
+				"halconf",
+				"Inc\\stm32f1xx_hal_conf.h"
+			],
+			[
+				"hal.",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal.h"
+			],
+			[
+				"f.",
+				"Drivers\\STM32F1xx_HAL_Driver\\Inc\\stm32f1xx_hal_flash.h"
+			],
+			[
+				"f10",
+				"Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include\\stm32f103xb.h"
+			],
+			[
+				"",
+				"Src\\hx711.c"
+			],
+			[
+				"h",
+				"Src\\hx711.c"
+			],
+			[
+				"mp",
+				"Src\\mpu6050.c"
+			],
+			[
+				"hal",
+				"Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c"
+			],
+			[
+				"tim.",
+				"Inc\\tim.h"
+			],
+			[
+				"ti",
+				"Src\\tim.c"
+			],
+			[
+				"cotex",
+				"Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c"
+			],
+			[
+				"gpio",
+				"Src\\gpio.c"
+			],
+			[
+				"fe",
+				"Inc\\feature.h"
+			],
+			[
+				"inv",
+				"Src\\inv_mpu_dmp_motion_driver.c"
+			],
+			[
+				"l",
+				"Inc\\lc_switch.h"
+			],
+			[
+				"pt",
+				"Inc\\pt.h"
+			],
+			[
+				"usar",
+				"Src\\usart.c"
+			],
+			[
+				"i2c.h",
+				"Inc\\i2c.h"
+			],
+			[
+				"retar",
+				"Src\\retarget_io.c"
+			],
+			[
+				"syste",
+				"Src\\system_stm32f1xx.c"
+			],
+			[
+				"sys",
+				"Src\\system_stm32f1xx.c"
+			],
+			[
+				"lcsw",
+				"Inc\\lc_switch.h"
+			],
+			[
+				"invmp",
+				"Inc\\inv_mpu.h"
+			],
+			[
+				"i2cd",
+				"drv\\src\\i2c_dma.c"
+			],
+			[
+				"i2cit",
+				"drv\\src\\i2c_it.c"
+			],
+			[
+				"pwm.h",
+				"app\\inc\\pwm.h"
+			],
+			[
+				"bsp.h",
+				"drv\\inc\\bsp.h"
+			],
+			[
+				"bsp",
+				"drv\\src\\bsp.c"
+			],
+			[
+				"fea",
+				"app\\inc\\feature.h"
+			],
+			[
+				"feat",
+				"app\\inc\\feature.h"
+			],
+			[
+				"bo",
+				"app\\inc\\board_stm32_minimum_system_2016_07_26.h"
+			],
+			[
+				"led",
+				"drv\\src\\led.c"
+			],
+			[
+				"red",
+				"doc\\resource allocation.md"
+			],
+			[
+				"i2cit.h",
+				"drv\\inc\\i2c_it.h"
+			],
+			[
+				"i2ci",
+				"drv\\src\\i2c_it.c"
+			],
+			[
+				"i2cdma",
+				"drv\\src\\i2c_dma.c"
+			],
+			[
+				"i2cti",
+				"drv\\src\\i2c_it.c"
+			],
+			[
+				"uartit",
+				"drv\\src\\uart_it.c"
+			],
+			[
+				"wdt.h",
+				"drv\\inc\\wdt.h"
+			],
+			[
+				"wdt",
+				"drv\\src\\wdt.c"
+			],
+			[
+				"wat",
+				"drv\\inc\\watchdog.h"
+			],
+			[
+				"uarti",
+				"drv\\src\\uart_interrupt.c"
+			],
+			[
+				"uart.h",
+				"drv\\inc\\uart.h"
+			],
+			[
+				"i2cco",
+				"drv\\src\\i2c - Copy.c"
+			],
+			[
+				"i2c.c",
+				"drv\\src\\i2c.c"
+			],
+			[
+				"i2it.h",
+				"drv\\inc\\i2c_it.h"
+			],
+			[
+				"i2c_it.c",
+				"drv\\src\\i2c_it.c"
+			],
+			[
+				"i2c_it",
+				"drv\\inc\\i2c_it.h"
+			],
+			[
+				"i2cdma.h",
+				"drv\\inc\\i2c_dma.h"
+			],
+			[
+				"i2it",
+				"drv\\src\\i2c_it.c"
+			],
+			[
+				"i2cdm",
+				"drv\\src\\i2c_dma.c"
+			],
+			[
+				"i2cmda",
+				"drv\\src\\i2c_dma.c"
+			],
+			[
+				"i2cc",
+				"drv\\src\\i2c - Copy.c"
+			],
+			[
+				"i2cse",
+				"doc\\i2c sequence.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\sheldencn\\Documents\\Project\\To do list\\mpu6050\\mpu6050\\mpu6050.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ADC1_Init"
+			]
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

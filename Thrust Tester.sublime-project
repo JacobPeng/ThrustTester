@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "Doc"
+		},
+		{
+			"path": "Drivers"
+		},
+		{
+			"path": "Inc"
+		},
+		{
+			"path": "Src"
+		},
+		{
+			"path": "startup"
+		}
+	]
+}
